@@ -1,2 +1,1 @@
-# simple_shell
-Project on the creation on a simple shell.
+Project on the creation of a simple shell.
